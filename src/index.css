@@ -17,6 +17,11 @@ body {
     cursor: url(./assets/icones/spatula.png), auto;
 }
 
+.ta {
+    display: flex;
+    margin: 0 auto;
+    width: 1500px;
+}
 
 /* ---------- CONTAINER PADRAO ---------- */
 .container {
